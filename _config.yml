@@ -1,0 +1,14 @@
+layout_spectrum: 0.7242624
+color:
+  saturation: 0.281767
+  brandStrength: 0.2256542
+  lightness: 1
+  rhythmicContrast: 0.4880278
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+typography_spectrum: 0.7197806
+name: ESSI
